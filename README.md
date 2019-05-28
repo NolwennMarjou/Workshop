@@ -1,6 +1,6 @@
 #Hello World!
 
-#THIS IS MY GIT PROJECT
-BLA BLA BLA
+## List of people in the workshop
 
-I want to add more content
+Renaud
+Ale
